@@ -1,0 +1,30 @@
+/* add your CSS here */
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+h3 {
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+
+.main {
+  width: 300px;
+  margin: 100px auto;
+}
+
+.with-borders {
+  border: 1px solid #e1e4e8;
+  border-radius: 3px;
+}
+
+.pad-x {
+  padding-left: 16px;
+  padding-right: 16px;
+}
+
+.pad-y {
+  padding-top: 16px;
+  padding-bottom: 16px;
+}
